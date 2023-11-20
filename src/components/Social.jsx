@@ -3,13 +3,13 @@ import React from "react";
 const SocialShare = [
   {
     iconName: "fa fa-twitter",
-    link: "https://www.twitter.com",
+    link: "https://twitter.com/Cris_Pap8",
   },
-  { iconName: "fa fa-telegram", link: "https://twitter.com/" },
-  {
-    iconName: "fa-brands fa-discord",
-    link: "https://www.twitter.com/",
-  },
+  { iconName: "fa fa-telegram", link: "https://twitter.com/Cris_Pap8" },
+  // {
+  //   iconName: "fa-brands fa-discord",
+  //   link: "https://www.twitter.com/",
+  // },
   { iconName: "fa fa-envelope", link: "mailto:kalathia@gmail.com" },
 ];
 
