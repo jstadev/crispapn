@@ -7,18 +7,20 @@ const experienceContent = [
     compnayName: "Chaos Dao",
     details: `Highly involved in the establishment of ChaosDAO with organization, moderation & content creation as key areas of contribution`,
   },
+ 
+  {
+    // year: "2022",
+    position: "Founder",
+    compnayName: "Polkadot Greece",
+    details: `The first time ever Polkadot is introduced in Greek language with simplified explanations about its key characteristics & basic concepts all gathered in one very user-friendly place`,
+  },
+
   {
     // year: "2020 - Present",
-    position: " Operations",
-    compnayName: "Solarbeam",
-    details: `Over 2 years team-Solarbeam with main responsibility on Operations `,
+    position: " Content Creator",
+    compnayName: "Freelance",
+    details: `Producing easy to consume content by simplifiyng complicaded terms and topics for educational & motivational purposes. Playing with graphs + data for analyzing on-chain state & trends`,
   },
-  // {
-  //   year: "2022",
-  //   position: "Advisor",
-  //   compnayName: "Kawa Finance",
-  //   details: `Provided strategic guidance and advisory support to Kawa Finance, leveraging comprehensive knowledge and experience to enhance the project's development and success in the decentralized finance (DeFi) sector.`,
-  // },
 ];
 
 const Experience = () => {
