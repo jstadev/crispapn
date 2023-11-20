@@ -4,7 +4,7 @@ const achievementsContent = [
   { title: "4", subTitle1: "blockchain", subTitle2: "experience" },
   { title: "150", subTitle1: "topics", subTitle2: "covered" },
   { title: "∞", subTitle1: "nfts", subTitle2: "colleccted" },
-  { title: "4269", subTitle1: "coffee", subTitle2: "drinked" },
+  { title: "4269", subTitle1: "coffee", subTitle2: "drank" },
 ];
 
 const Achievements = () => {
