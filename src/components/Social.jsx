@@ -5,12 +5,12 @@ const SocialShare = [
     iconName: "fa fa-twitter",
     link: "https://twitter.com/Cris_Pap8",
   },
-  { iconName: "fa fa-telegram", link: "https://twitter.com/Cris_Pap8" },
+  { iconName: "fa fa-telegram", link: "https://t.me/Cris_Pap" },
   // {
   //   iconName: "fa-brands fa-discord",
   //   link: "https://www.twitter.com/",
   // },
-  { iconName: "fa fa-envelope", link: "mailto:chris_pap8@hotmail.com" },
+  { iconName: "fa fa-envelope", link: "http://discordapp.com/users/827156319097323520" },
 ];
 
 const Social = () => {
