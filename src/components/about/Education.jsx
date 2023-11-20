@@ -1,5 +1,5 @@
 import React from "react";
-import whitedot from "../../../public/assets/dot_white.png"
+import whitedot from "../../../public/assets/img/intro/dot_white.png";
 
 const educationContent = [
 
@@ -31,7 +31,7 @@ const Education = () => {
         <li key={i}>
           <div className="icon">
             {/* <i className="fa fa-history"></i> */}
-            <img className="dotl" src={whitedot} alt="" />
+            <img className="dotl" src={whitedot} alt="dotlogo" />
           </div>
           <span className="time open-sans-font text-uppercase">{val.year}</span>
           <h5 className="poppins-font text-uppercase">
