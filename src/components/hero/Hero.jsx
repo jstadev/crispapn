@@ -11,7 +11,7 @@ const heroContent = {
   heroMobileImage: heroImgMobile,
   heroTitleName: "i'm Cris_Pap",
   heroDesignation: "Welcome to my blog",
-  heroDescriptions: `Join me on this adventure as we unravel the complexities of the blockchain space, one thread at a time.`,
+  heroDescriptions: `Join me on this adventure as we unravel the complexities of the blockchain space, `,
   heroBtn: "more about me",
 };
 
@@ -37,9 +37,9 @@ const Hero = () => {
               // style={{width:'100%',height:'100%'}}
             />
             <h1 className="text-uppercase poppins-font">
-              {"Hey"} {heroContent.heroTitleName}.
+              {"Hey"} {heroContent.heroTitleName}!
               <span>{heroContent.heroDesignation}</span>
-              <p className="white open-sans-font">{heroContent.heroDescriptions}</p>
+              <p className="white open-sans-font">{heroContent.heroDescriptions}<span className="pink"> one thread at a time.</span></p>
               
             </h1>
             <div  className="col-12">
