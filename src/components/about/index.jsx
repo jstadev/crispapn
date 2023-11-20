@@ -40,7 +40,7 @@ const index = () => {
               </div>
               <div className="col-12">
                 <p>
-                Hello folks, Cris_Pap here!
+                Hello everybody, Cris_Pap here!
 <br/>
 Web3 native with extensive knowledge on blockchain technologies & deep understanding of the audience, markets & products.
 <br/><br/>
