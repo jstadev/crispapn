@@ -48,7 +48,7 @@ Joined the blockchain industry in 2018 with the last 3+ years solely focus on Po
 <br/><br/>
 Writing simplified easy to consume content for around 2years with main goal to raise brand awareness and help onboarding new users to our ecosystem.
 <br/><br/>
-Super passionate about Polkadot with multiple contributions on various fields throughout this years.
+Super passionate about Polkadot with multiple contributions on various fields throughout these years.
 <br/><br/>
 <a className="pink" href="mailto:chris_pap8@hotmail.com"> Lets connect! </a>
 
