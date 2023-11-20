@@ -2,13 +2,13 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "   2020 - Present",
+    // year: "   2020 - Present",
     position: " Co-Founder & Member",
     compnayName: "Chaos Dao",
     details: `Highly involved in the establishment of ChaosDAO with organization, moderation & content creation as key areas of contribution`,
   },
   {
-    year: "2020 - Present",
+    // year: "2020 - Present",
     position: " Operations",
     compnayName: "Solarbeam",
     details: `Over 2 years team-Solarbeam with main responsibility on Operations `,

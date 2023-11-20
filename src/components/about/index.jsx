@@ -5,7 +5,7 @@ import Experience from "./Experience";
 import PersonalInfo from "./PersonalInfo";
 import Skills from "./Skills";
 import cv from "../../../public/assets/img/cv.webp";
-import heroImgMobile from "../../../public/assets/img/hero/img-mobile.jpg";
+import heroImgMobile from "../../../public/assets/img/hero/profile.jpg";
 import Image from "next/image";
 import Social from "../Social";
 
@@ -40,17 +40,17 @@ const index = () => {
               </div>
               <div className="col-12">
                 <p>
-                Greetings folks Cris_Pap here
+                Hello folks, Cris_Pap here!
 <br/>
 Web3 native with extensive knowledge on blockchain technologies & deep understanding of the audience, markets & products.
 <br/><br/>
 Joined the blockchain industry in 2018 with the last 3+ years solely focus on Polkadot and Kusama!
 <br/><br/>
-Writing simplified easy to consume content for around 2years with main goal to raise brand awareness and help onboarding new users to our ecosystem 
+Writing simplified easy to consume content for around 2years with main goal to raise brand awareness and help onboarding new users to our ecosystem.
 <br/><br/>
-Super passionate about Polkadot with multiple contributions on various fields throughout this years
+Super passionate about Polkadot with multiple contributions on various fields throughout this years.
 <br/><br/>
-<a className="pink" href="mailto:crispap@gmail.com"> Lets connect! </a>
+<a className="pink" href="mailto:chris_pap8@hotmail.com"> Lets connect! </a>
 
                 </p>
               </div>

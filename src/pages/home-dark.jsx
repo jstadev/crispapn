@@ -14,9 +14,10 @@ import SwitchDark from "../components/switch/SwitchDark";
 const menuItem = [
   { icon: "fa-home", menuName: "Home" },
   { icon: "fa-user", menuName: "About" },
+  { icon: "fa-pencil", menuName: "threads" },
   { icon: "fa-pie-chart", menuName: "data" },
   // { icon: "fa-envelope-open", menuName: "Contact" },
-  { icon: "fa-pencil", menuName: "threads" },
+  
 ];
 
 const HomeDark = () => {
@@ -71,6 +72,32 @@ const HomeDark = () => {
               </div>
             </TabPanel>
             {/* About Content Ends */}
+
+             {/* Blog Content Starts */}
+             <TabPanel className="blog">
+              <div
+                className="title-section text-start text-sm-center "
+                data-aos="fade-up"
+                data-aos-duration="1200"
+              >
+                <h1>
+                  my <span>threads</span>
+                </h1>
+                <span className="title-bg">X posts</span>
+              </div>
+              <div
+                className="container"
+                data-aos="fade-up"
+                data-aos-duration="1200"
+              >
+                {/*  Articles Starts  */}
+                <div className="row pb-50">
+                  <Blog />
+                </div>
+                {/* Articles Ends */}
+              </div>
+            </TabPanel>
+            {/* Blog Content Ends */}
 
             {/* Portfolio Content Starts */}
             <TabPanel className="portfolio professional">
@@ -134,31 +161,7 @@ const HomeDark = () => {
             </TabPanel> */}
             
 
-            {/* Blog Content Starts */}
-            <TabPanel className="blog">
-              <div
-                className="title-section text-start text-sm-center "
-                data-aos="fade-up"
-                data-aos-duration="1200"
-              >
-                <h1>
-                  my <span>threads</span>
-                </h1>
-                <span className="title-bg">X posts</span>
-              </div>
-              <div
-                className="container"
-                data-aos="fade-up"
-                data-aos-duration="1200"
-              >
-                {/*  Articles Starts  */}
-                <div className="row pb-50">
-                  <Blog />
-                </div>
-                {/* Articles Ends */}
-              </div>
-            </TabPanel>
-            {/* Blog Content Ends */}
+           
           </div>
         </Tabs>
       </div>

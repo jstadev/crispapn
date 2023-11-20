@@ -10,7 +10,7 @@ const SocialShare = [
   //   iconName: "fa-brands fa-discord",
   //   link: "https://www.twitter.com/",
   // },
-  { iconName: "fa fa-envelope", link: "mailto:kalathia@gmail.com" },
+  { iconName: "fa fa-envelope", link: "mailto:chris_pap8@hotmail.com" },
 ];
 
 const Social = () => {

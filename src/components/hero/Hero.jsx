@@ -9,8 +9,8 @@ import Social from "../Social";
 const heroContent = {
   heroImage: "/assets/img/hero/profile.jpg",
   heroMobileImage: heroImgMobile,
-  heroTitleName: "i'm CrisPap",
-  heroDesignation: "Welcome to my little blog",
+  heroTitleName: "i'm Cris_Pap",
+  heroDesignation: "Welcome to my blog",
   heroDescriptions: `Join me on this adventure as we unravel the complexities of the blockchain space, one thread at a time.`,
   heroBtn: "more about me",
 };
