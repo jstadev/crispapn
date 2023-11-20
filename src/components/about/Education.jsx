@@ -1,4 +1,5 @@
 import React from "react";
+import whitedot from "../../../public/assets/dot_white.png"
 
 const educationContent = [
 
@@ -12,7 +13,7 @@ const educationContent = [
     // year: "Ecosystem Agent - Polkadot & Kusama Ecosystem",
     degree: "Ecosystem Agent ",
     institute: "Polkadot & Kusama Ecosystem",
-    details: `-Polkadot and Kusama ecosystem agent and one of the biggest advocates of our ecosystem. Always evolving always pushing`,
+    details: `Polkadot and Kusama ecosystem agent and one of the biggest advocates of our ecosystem. Always evolving always pushing`,
   },
 
   {
@@ -29,7 +30,8 @@ const Education = () => {
       {educationContent.map((val, i) => (
         <li key={i}>
           <div className="icon">
-            <i className="fa fa-history"></i>
+            {/* <i className="fa fa-history"></i> */}
+            <img className="dotl" src={whitedot} alt="" />
           </div>
           <span className="time open-sans-font text-uppercase">{val.year}</span>
           <h5 className="poppins-font text-uppercase">

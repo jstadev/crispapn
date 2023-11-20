@@ -834,6 +834,10 @@ body.light .header ul.icon-menu li.icon-box:hover i {
   opacity: 0.8;
 }
 
+.dotl{
+  max-width: 20px;
+}
+
 .about .resume-box h5 {
   font-size: 18px;
   margin: 7px 0 10px;
@@ -850,7 +854,8 @@ body.light .header ul.icon-menu li.icon-box:hover i {
   font-weight: 600;
   font-size: 15px;
   position: relative;
-  padding-left: 26px;
+  padding-left: 26px;  
+  color: #FB0377;
 }
 
 .about .resume-box .place:before {
