@@ -47,7 +47,7 @@ import img45 from "../../public/assets/img/blog/moonriver.webp";
 import img46 from "../../public/assets/img/blog/wag.webp";
 import img47 from "../../public/assets/img/blog/gromlins.webp";
 import img48 from "../../public/assets/img/blog/skybreach.webp";
-import img49 from "../../public/assets/img/blog/delegate.webp";
+// import img49 from "../../public/assets/img/blog/delegate.webp";
 import img50 from "../../public/assets/img/blog/1stxcm.webp";
 
 
@@ -918,23 +918,7 @@ const AllBlogData = () => {
           description5: "https://x.com/Cris_Pap8/status/1517501985674731520?s=20",
       },
 
-      {
-        id: 49,
-        img: img49,
-        title: "Delegate",
-        commentor: "CrisPap ",
-        date: "23/12/2022",
-        tag: `delegate`,
-        description1:
-          "1/ How to delegate your vote with ChaosDAO in JUST 4 steps!",
-        description2:
-        "2/ STARTER PACK",
-        description3:
-        "-PolkadotJS: ▶ http://youtube.com/watch?v=mT7rUlQh660",
-        description4:
-          "3/ STEP #1",
-          description5: "https://x.com/ChaosDAO/status/1606311181093724160?s=20",
-      },
+     
 
       {
         id: 50,
