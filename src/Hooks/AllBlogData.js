@@ -1,4 +1,6 @@
 import { useState } from "react";
+import img0 from "../../public/assets/img/blog/dotdead.jpg";
+import img80 from "../../public/assets/img/blog/gav.png";
 import img1 from "../../public/assets/img/blog/polkadotgreece.webp";
 import img2 from "../../public/assets/img/blog/tools.webp";
 import img3 from "../../public/assets/img/blog/defi.webp";
@@ -59,6 +61,45 @@ import Image from "next/image";
 
 const AllBlogData = () => {
   const blogsData = [
+
+    {
+      id: 0,
+      img: img0,
+      title: "Polkadot is dead 🚩",
+      commentor: "CrisPap",
+      date: "13/11/2023",
+      tag: `polkadot`,
+      description1:
+        "Polkadot is dead, just has more than 5 thousand monthly code commits & hundreds of active developers building on it daily",
+      description2:
+      "Polkadot is dead, just was never mentioned by SEC as a security because its a software",
+      description3:
+        ".",
+      // description4:
+        // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+      description5: "https://twitter.com/Cris_Pap8/status/1729501260594733226",
+      },
+
+      {
+        id: 80,
+        img: img80,
+        title: "But why #Polkadot?",
+        commentor: "CrisPap",
+        date: "13/11/2023",
+        tag: `Polkadot, gavin wood`,
+        description1:
+          "How do you remain so calm in such a volatile & stressful environment?",
+        description2:
+        " The answer is simple and always the same",
+        description3:
+          "Conviction!",
+        // description4:
+          // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+        description5: "https://twitter.com/Cris_Pap8/status/1725530924845019528",
+        },
+
+
+
     {
       id: 1,
       img: img1,
