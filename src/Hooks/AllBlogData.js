@@ -1,6 +1,6 @@
 import { useState } from "react";
 import img0 from "../../public/assets/img/blog/dotdead.jpg";
-import img80 from "../../public/assets/img/blog/gav.png";
+import img80 from "../../public/assets/img/blog/gav.jpg";
 import img1 from "../../public/assets/img/blog/polkadotgreece.webp";
 import img2 from "../../public/assets/img/blog/tools.webp";
 import img3 from "../../public/assets/img/blog/defi.webp";
