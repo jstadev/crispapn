@@ -83,7 +83,7 @@ const AllBlogData = () => {
       {
         id: 80,
         img: img80,
-        title: "But why #Polkadot?",
+        title: "Polkadot Thesis",
         commentor: "CrisPap",
         date: "13/11/2023",
         tag: `Polkadot, gavin wood`,
