@@ -332,14 +332,14 @@ const PortfolioData = [
     image: Image19,
     tag: ["graphic design"],
     delayAnimation: "100",
-    link: "https://x.com/Cris_Pap8/status/1702292711569510800?s=20",
+    link: "https://twitter.com/Cris_Pap8/status/1701622906965377288",
     modalDetails: [
       {
         project: "Top 10 parachains on @Polkadot by monthly active users!",
         // client: "Envato",
         // language: "HTML, CSS, Javascript",
         preview: "Original Post",
-        link: "https://x.com/Cris_Pap8/status/1702292711569510800?s=20",
+        link: "https://twitter.com/Cris_Pap8/status/1701622906965377288",
       },
     ],
   },
