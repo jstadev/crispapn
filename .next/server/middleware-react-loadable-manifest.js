@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST={"_app.jsx -> react-animated-cursor":{"id":"_app.jsx -> react-animated-cursor","files":["static/chunks/node_modules_react-animated-cursor_dist_index_umd_js.js"]}}
