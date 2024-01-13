@@ -1,5 +1,8 @@
 import { useState } from "react";
 import img0 from "../../public/assets/img/blog/dotdead.jpg";
+import img81 from "../../public/assets/img/blog/moonthrow.webp";
+import img82 from "../../public/assets/img/blog/dotupgrades.webp";
+import img83 from "../../public/assets/img/blog/top6dot.webp";
 import img80 from "../../public/assets/img/blog/gav.jpg";
 import img1 from "../../public/assets/img/blog/polkadotgreece.webp";
 import img2 from "../../public/assets/img/blog/tools.webp";
@@ -62,6 +65,62 @@ import Image from "next/image";
 const AllBlogData = () => {
   const blogsData = [
 
+
+    {
+      id: 83,
+      img: img83,
+      title: "Enterprise adoption",
+      commentor: "CrisPap",
+      date: "13/11/2023",
+      tag: `polkadot`,
+      description1:
+        "2/ @AstarNetwork & Sony",
+      description2:
+      "With a heavy focus on Japanese markets Astar managed to form 1 of the greatest collabs during 2023! Together they organized...",
+      description3:
+        ".",
+      // description4:
+        // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+      description5: "https://twitter.com/Cris_Pap8/status/1740434242411401383",
+    },
+
+    {
+      id: 82,
+      img: img82,
+      title: "Polkadot Upgrades for 2024",
+      commentor: "CrisPap",
+      date: "13/11/2023",
+      tag: `polkadot`,
+      description1:
+      "1/ Most anticipated upgrades on @Polkadot during 2024",
+      description2:
+      "#Polkadot replaces parachain auctions & crowdloans with blockspace allocation & coretime purchases while ...",
+      description3:
+        ".",
+      // description4:
+        // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+      description5: "https://twitter.com/Cris_Pap8/status/1744758666643804400",
+    },
+
+
+    {
+      id: 81,
+      img: img81,
+      title: "Throwback into MoonbeamNetwork",
+      commentor: "CrisPap",
+      date: "13/11/2023",
+      tag: `polkadot`,
+      description1:
+        "The most widely used & supported by the community parachain that played an essential role for the growth and adaption of @Polkadot",
+      description2:
+      ". Moonbeam won the 2nd parachain auction on Polkadot but still holds the record of most DOT contributions (~38M) during a crowdloan🥇",
+      description3:
+        ".",
+      // description4:
+        // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+      description5: "https://twitter.com/Cris_Pap8/status/1721566259119018313",
+    },
+
     {
       id: 0,
       img: img0,
@@ -72,15 +131,15 @@ const AllBlogData = () => {
       description1:
         "Polkadot is dead, just has more than 5 thousand monthly code commits & hundreds of active developers building on it daily",
       description2:
-      "Polkadot is dead, just was never mentioned by SEC as a security because its a software",
+      " Polkadot is dead, just was never mentioned by SEC as a security because its a software",
       description3:
         ".",
       // description4:
         // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
       description5: "https://twitter.com/Cris_Pap8/status/1729501260594733226",
-      },
+    },
 
-      {
+    {
         id: 80,
         img: img80,
         title: "Polkadot Thesis",
@@ -96,7 +155,7 @@ const AllBlogData = () => {
         // description4:
           // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
         description5: "https://twitter.com/Cris_Pap8/status/1725530924845019528",
-        },
+      },
 
 
 

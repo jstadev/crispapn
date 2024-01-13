@@ -18,8 +18,46 @@ import Image17 from "../../../public/assets/img/portfolio/top5projectsondot.jpg"
 import Image18 from "../../../public/assets/img/portfolio/Top10coins.jpg";
 import Image19 from "../../../public/assets/img/portfolio/top10dot.jpg";
 import Image20 from "../../../public/assets/img/portfolio/usageofdot2.jpg";
+import Image21 from "../../../public/assets/img/portfolio/devactdot.webp";
+import Image22 from "../../../public/assets/img/portfolio/ogvoters.webp";
 
 const PortfolioData = [
+
+  {
+    id: 62,
+    type: "Monthly #OpenGov voters 2023",
+    image: Image22,
+    tag: ["kalatghias"],
+    delayAnimation: "0",
+    link: "https://twitter.com/Cris_Pap8/status/1743373753113846109",
+    modalDetails: [
+      {
+        project: "Monthly #OpenGov voters 2023",
+        // client: "Envato",
+        // language: "HTML, CSS, Javascript",
+        preview: "Original Post",
+        link: "https://twitter.com/Cris_Pap8/status/1743373753113846109",
+      },
+    ],
+  },
+
+  {
+    id: 61,
+    type: "Polkadot placed 𝗧𝗢𝗣 𝟮 in developer activity",
+    image: Image21,
+    tag: ["kalatghias"],
+    delayAnimation: "0",
+    link: "https://twitter.com/Cris_Pap8/status/1739746464488632710",
+    modalDetails: [
+      {
+        project: "Polkadot placed 𝗧𝗢𝗣 𝟮 in developer activity",
+        // client: "Envato",
+        // language: "HTML, CSS, Javascript",
+        preview: "Original Post",
+        link: "https://twitter.com/Cris_Pap8/status/1739746464488632710",
+      },
+    ],
+  },
   {
     id: 51,
     type: "Breakdown of $DOT tokens locked on parachains for @Polkadot crowdloans",
