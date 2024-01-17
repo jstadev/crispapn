@@ -113,7 +113,7 @@ const AllBlogData = () => {
       description1:
         "The most widely used & supported by the community parachain that played an essential role for the growth and adaption of @Polkadot",
       description2:
-      ". Moonbeam won the 2nd parachain auction on Polkadot but still holds the record of most DOT contributions (~38M) during a crowdloan🥇",
+      "",
       description3:
         ".",
       // description4:
