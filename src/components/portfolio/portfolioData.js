@@ -20,7 +20,7 @@ import Image19 from "../../../public/assets/img/portfolio/top10dot.jpg";
 import Image20 from "../../../public/assets/img/portfolio/usageofdot2.jpg";
 import Image21 from "../../../public/assets/img/portfolio/devactdot.webp";
 import Image22 from "../../../public/assets/img/portfolio/ogvoters.webp";
-import Image23 from "../../../public/assets/img/portfolio/polkanumbers.webp";
+import Image23 from "../../../public/assets/img/portfolio/polkanumbers.jpg";
 
 const PortfolioData = [
   {

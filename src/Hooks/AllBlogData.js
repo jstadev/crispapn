@@ -3,7 +3,7 @@ import img0 from "../../public/assets/img/blog/dotdead.jpg";
 import img81 from "../../public/assets/img/blog/moonthrow.webp";
 import img82 from "../../public/assets/img/blog/dotupgrades.webp";
 import img83 from "../../public/assets/img/blog/top6dot.webp";
-import img84 from "../../public/assets/img/blog/jam.webp";
+import img84 from "../../public/assets/img/blog/jam.jpg";
 import img80 from "../../public/assets/img/blog/gav.jpg";
 import img1 from "../../public/assets/img/blog/polkadotgreece.webp";
 import img2 from "../../public/assets/img/blog/tools.webp";
