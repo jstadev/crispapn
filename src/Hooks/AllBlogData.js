@@ -3,6 +3,7 @@ import img0 from "../../public/assets/img/blog/dotdead.jpg";
 import img81 from "../../public/assets/img/blog/moonthrow.webp";
 import img82 from "../../public/assets/img/blog/dotupgrades.webp";
 import img83 from "../../public/assets/img/blog/top6dot.webp";
+import img84 from "../../public/assets/img/blog/jam.webp";
 import img80 from "../../public/assets/img/blog/gav.jpg";
 import img1 from "../../public/assets/img/blog/polkadotgreece.webp";
 import img2 from "../../public/assets/img/blog/tools.webp";
@@ -64,8 +65,24 @@ import Image from "next/image";
 
 const AllBlogData = () => {
   const blogsData = [
-
-
+    
+    {
+      id: 84,
+      img: img84,
+      title: "Code Name: JAM",
+      commentor: "CrisPap",
+      date: "13/11/2023",
+      tag: `polkadot`,
+      description1:
+        "What is JAM and how @Polkadot is transforming into a multi-dimensional resilient super-computer",
+      description2:
+      "",
+      description3:
+        ".",
+      // description4:
+        // "Ιδανικό για αρχάριους στον χώρο των κρυπτονομισμάτων καθώς απλοποιεί περίπλοκες τεχνικές ορολογίες με κατανοητό τρόπο.",
+      description5: "https://twitter.com/Cris_Pap8/status/1781323412230590883?t=xTVnB85AJSlI9D84Xh_Hiw&s=19",
+    },
     {
       id: 83,
       img: img83,

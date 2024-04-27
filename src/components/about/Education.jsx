@@ -16,12 +16,11 @@ const educationContent = [
     details: `Polkadot and Kusama ecosystem agent and one of the biggest advocates of our ecosystem. Always evolving always pushing`,
   },
 
-  {
-    // year: "2023",
-    degree: "Operations",
-    institute: "Solarbeam",
-    details: `Over 2 years team-Solarbeam with main responsibility on Operations`,
-  },
+  // {
+  //   degree: "Operations",
+  //   institute: "Solarbeam",
+  //   details: `Over 2 years team-Solarbeam with main responsibility on Operations`,
+  // },
 ];
 
 const Education = () => {

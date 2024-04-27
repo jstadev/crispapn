@@ -20,9 +20,26 @@ import Image19 from "../../../public/assets/img/portfolio/top10dot.jpg";
 import Image20 from "../../../public/assets/img/portfolio/usageofdot2.jpg";
 import Image21 from "../../../public/assets/img/portfolio/devactdot.webp";
 import Image22 from "../../../public/assets/img/portfolio/ogvoters.webp";
+import Image23 from "../../../public/assets/img/portfolio/polkanumbers.webp";
 
 const PortfolioData = [
-
+  {
+    id: 63,
+    type: "@Polkadot in Numbers: Data Report",
+    image: Image23,
+    tag: ["kalatghias"],
+    delayAnimation: "0",
+    link: "https://twitter.com/Cris_Pap8/status/1760687298335969318?s=20",
+    modalDetails: [
+      {
+        project: "@Polkadot in Numbers: Data Report",
+        // client: "Envato",
+        // language: "HTML, CSS, Javascript",
+        preview: "Original Post",
+        link: "https://twitter.com/Cris_Pap8/status/1760687298335969318?s=20",
+      },
+    ],
+  },
   {
     id: 62,
     type: "Monthly #OpenGov voters 2023",
